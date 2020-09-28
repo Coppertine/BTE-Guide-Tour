@@ -1,0 +1,4 @@
+name: BTEGuideTour
+version: ${project.version}
+main: com.bteaus.bteguidetour.BTEGuideTourBungeeCord
+description: A Customisable Tour Guide for your BTE Networks!

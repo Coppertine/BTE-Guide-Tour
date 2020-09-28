@@ -1,0 +1,7 @@
+name: BTEGuideTour
+version: ${project.version}
+main: com.bteaus.bteguidetour.BTEGuideTourSpigot
+prefix: [Guide Tour]
+softdepend: [Sledgehammer, HeadDatabase]
+authors: [Coppertine]
+description: A Customisable Tour Guide on the BTE Servers
